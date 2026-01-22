@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: GiveMeHeals
+## Notes: Simple healing addon for Shamans to use post Midnight. Also allows movement of the general tooltip.
+## Author: Xerra
+## Version: 1.0
+## SavedVariables: GiveMeHealsDB
+
+GiveMeHeals.lua
